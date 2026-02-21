@@ -1,5 +1,5 @@
 {
-  "name": "@pleme/brazilian-utils",
+  "name": "@pleme-io/brazilian-utils",
   "version": "1.0.0",
   "description": "Brazilian utilities for formatting and validation (CPF, CEP, Phone, Currency)",
   "type": "module",
