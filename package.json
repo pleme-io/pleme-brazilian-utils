@@ -1,6 +1,6 @@
 {
   "name": "@pleme-io/brazilian-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Brazilian utilities for formatting and validation (CPF, CEP, Phone, Currency)",
   "type": "module",
   "main": "./dist/index.js",
